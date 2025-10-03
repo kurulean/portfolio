@@ -136,8 +136,7 @@ function App() {
             <p
               className={`mt-2 text-sm sm:text-[15px] leading-snug max-w-[52ch] md:max-w-[48ch] ${textSub} text-center md:text-left`}
             >
-              Hello! I’m Matthew Nguyen, a 3rd-year Software Engineering major @ UC Irvine. 
-              I enjoy turning ideas into
+              Hello! I’m Matthew Nguyen, a 3rd-year Software Engineering major @ UC Irvine. I enjoy turning ideas into
               sleek, well-designed web applications. Whether I’m coding solo or collaborating on a team, I’m always
               looking to learn, build, and create something impactful.
             </p>
@@ -154,10 +153,10 @@ function App() {
 
             {/* social */}
             <div className="mt-6 flex items-center justify-center md:justify-start gap-3">
-              <Social href="https://linkedin.com/in/yourname" className={chipIcon}>
+              <Social href="https://linkedin.com/in/mattndev" className={chipIcon}>
                 <LinkedInIcon />
               </Social>
-              <Social href="https://github.com/yourname" className={chipIcon}>
+              <Social href="https://github.com/kurulean" className={chipIcon}>
                 <GitHubIcon />
               </Social>
             </div>
